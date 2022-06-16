@@ -1,0 +1,59 @@
+h1 {
+  color: purple;
+  font-family: 'Nanum Gothic', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+
+.unicorn {
+  color: lightpink font-size 4rem;
+}
+
+.unicorn2 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+  color: lightyellow;
+}
+
+body {
+  background: pink;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  width: fit-content;
+}
+
+.column {
+  flex: 1;
+}
+
+.button1 {
+  font-family: 'Indie Flower', cursive;
+  color: purple;
+  background-color: white;
+  border: 1px solid gray;
+}
+
+.button1:hover {
+  background-color: gray;
+}
+
+.marker {
+  background-color: yellow;
+}
+
+.search_input_container {
+  flex: 0.6 !important;
+}
