@@ -6,5 +6,5 @@ function add2(value) {
 
 function showlink() {
   let ix = document.getElementById("search1").value;
-  window.open("https://www.bing.com/search?q=dog pictures "+ix, 'new');
+  window.open("https://www.bing.com/images/search?q=dog pictures "+ix, 'new');
 }
