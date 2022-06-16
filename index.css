@@ -44,6 +44,7 @@ body {
   color: purple;
   background-color: white;
   border: 1px solid gray;
+  font-size: 2rem;
 }
 
 .button1:hover {
